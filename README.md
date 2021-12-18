@@ -1,1 +1,1 @@
-# techathon-login
+# techathon-project
